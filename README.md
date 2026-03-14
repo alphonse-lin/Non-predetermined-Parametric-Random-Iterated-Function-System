@@ -4,6 +4,8 @@
 
 This project is a lightweight, high-performance HTML5 Canvas simulator that demonstrates how Iterated Function Systems (IFS) and deterministic chaos can be used to control massive swarms (e.g., thousands of drones or MANET nodes) without incurring a combinatorial explosion of computational cost.
 
+visit this link: link[https://alphonse-lin.github.io/Non-predetermined-Parametric-Random-Iterated-Function-System/swarm-simulator.html]
+
 ## 🌟 The Core Concept
 
 Traditional swarm control or ad-hoc networking requires nodes to be aware of each other, leading to exponential routing and coordination costs as the swarm scales. 
